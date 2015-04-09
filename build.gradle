@@ -11,7 +11,7 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
- // cunt cunt cunt
+
 allprojects {
     repositories {
         jcenter()
